@@ -2,6 +2,7 @@
   "name": "giga-project",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://maxiigelmi-bot.github.io/gigamegaultra/",
   "type": "module",
   "scripts": {
     "dev": "vite",
